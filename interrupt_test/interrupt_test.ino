@@ -1,3 +1,8 @@
+//Alden Dent
+
+//Simple test code to test interrupt
+
+#include "Arduino.h"
 const byte ledPin = 4;
 const byte interruptPin = 3;
 volatile byte state = LOW;

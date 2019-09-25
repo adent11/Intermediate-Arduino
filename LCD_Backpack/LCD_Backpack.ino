@@ -1,3 +1,7 @@
+// Alden Dent
+// LCD Backpack
+// Prints the amount of times a button has bee pressed
+#include "Arduino.h"
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 int press = 0;
@@ -17,6 +21,7 @@ void loop()
 	// put your main code here, to run repeatedly:
 	Serial.println(digitalRead(6));
 	if ((digitalRead(6) == HIGH) && (wait == false))
+		//Waits for the button to be unpressed before it can be counted again
 	{
 		lcd.clear();
 		press++;
