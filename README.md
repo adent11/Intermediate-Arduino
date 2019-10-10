@@ -9,6 +9,7 @@
 ## Hello LCD
 #### Included Files:
 <a href="LCD">LCD.ino</a> <br/>
+<a href="millistest">millistest.ino</a> <br/>
 
 ## LCD Backpack
 #### Included Files:
