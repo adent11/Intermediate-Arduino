@@ -1,24 +1,24 @@
 # Intermediate-Arduino
 
-### LCD: 
-Prints "Hello World" on the first line of the LCD and the amount of time since the program started (seconds) on the second line.
+## LED Blink Revisited
+#### Included Files:
 
-### LCD_Backpack:
 
-### LCD_Backpack2:
+## Hello LCD
+#### Included Files:
 
-### LED_Blink_Revisited
 
-### Motor_Control
+## LCD Backpack
+#### Included Files:
 
-### Photointerrupter
 
-### Potentiometers
+## Photointerrupters
+#### Included Files:
 
-### interrupt_test
 
-### millistest
+## Potentiometers
+#### Included Files:
 
-### pwmerrortest
 
-### pwmwithfor
+## Motor Control
+#### Included Files:
