@@ -2,9 +2,9 @@
 
 ## LED Blink Revisited
 #### Included Files:
-<a href="LED_Blink_Revisited">LED_Blink_Revisited.ino</a> <br/>
-<a href="pwmerrortest">pwmerrortest.ino</a> <br/>
-<a href="pwmwithfor">pwmwithfor.ino</a> <br/>
+<a href="LED_Blink_Revisited/LED_Blink_Revisited.ino">LED_Blink_Revisited</a> <br/>
+<a href="pwmerrortest/pwmerrortest.ino">pwmerrortest</a> <br/>
+<a href="pwmwithfor/pwmwithfor.ino">pwmwithfor.ino</a> <br/>
 
 ## Hello LCD
 #### Included Files:
