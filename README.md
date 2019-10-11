@@ -3,7 +3,7 @@
 ## LED Blink Revisited
 #### Included Files:
 <a href="LED_Blink_Revisited/LED_Blink_Revisited.ino">LED_Blink_Revisited</a> <br/>
-<IMG SRC="FritzingDiagrams/LED_Blink_RevisitedScreenshot.PNG"  width="170" height="200">
+<IMG SRC="FritzingDiagrams/LED_Blink_RevisitedScreenshot.PNG"  width="166" height="200">
 ## Hello LCD
 #### Included Files:
 <a href="LCD/LCD.ino">LCD</a> <br/>
