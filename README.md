@@ -11,8 +11,10 @@ For me, this assignment was a pleasant refresher and a good way to learn how to 
 #### Included Files:
 <a href="LCD/LCD.ino">LCD</a> <br/>
 <a href="millistest/millistest.ino">millistest</a> <br/>
-
-
+In this assignment I used an LCD screen to print "hello world" and the amount of time since the code started. I used the LiquidCrystal library to make the LCD usable. One thing that I learned in this assignment was how to use the millis() function to keep time. 
+<br/>
+<IMG SRC="FritzingDiagrams/Hello_LCDScreenshot.PNG"  width="248" height="200"> <br/>
+I didn't enjoy this assignment due to the tedious nature of wiring the LCD screen.
 ## LCD Backpack
 #### Included Files:
 <a href="LCD_Backpack/LCD_Backpack.ino">LCD_Backpack</a> <br/>
