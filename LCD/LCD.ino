@@ -1,5 +1,5 @@
-// Alden Dent Hello LCD
-// Prints hello world and time since code began
+// Alden Dent
+// Hello LCD
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);
 unsigned long time;
@@ -17,7 +17,7 @@ void loop()
 	lcd.print("Time: ");
 	time = millis();
 	lcd.print(time/1000);
-	lcd.print("            ");
+	lcd.print("            "); //Clear bottom row
 	Serial.print(time/1000);
 	delay(1000);
 }
