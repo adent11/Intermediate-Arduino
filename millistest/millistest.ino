@@ -1,3 +1,5 @@
+//Alden Dent
+//Test of how to use millis
 unsigned long time;
 
 void setup() {
