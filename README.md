@@ -15,10 +15,14 @@ In this assignment I used an LCD screen to print "hello world" and the amount of
 <br/>
 <IMG SRC="FritzingDiagrams/Hello_LCDScreenshot.PNG"  width="248" height="200"> <br/>
 I didn't enjoy this assignment due to the tedious nature of wiring the LCD screen.
+
 ## LCD Backpack
 #### Included Files:
 <a href="LCD_Backpack/LCD_Backpack.ino">LCD_Backpack</a> <br/>
 <a href="LCD_Backpack2/LCD_Backpack2.ino">LCD_Backpack2</a> <br/>
+In this assignment I learned how to use the LCD backpack to save the time and space of wiring. In my program a counter goes up when you press the button. For my first draft (LCD_Backpack) the counter keeps increasing even if you don't release the button. My final draft (LCD_Backpack2) uses a boolean to stop the counter from increasing until you release the button. <br/>
+<IMG SRC="FritzingDiagrams/LCD_BackpackScreenshot.PNG"  width="361" height="200"> <br/>
+I liked this assignment because it gave an easy solution for the problem of wiring the LCD.
 
 ## Photointerrupters
 #### Included Files:
