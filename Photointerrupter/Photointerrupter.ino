@@ -1,3 +1,6 @@
+//Alden Dent
+//Photointerrupters
+
 #include "Arduino.h"
 int count = 0;
 volatile byte led = LOW;
