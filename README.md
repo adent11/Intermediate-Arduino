@@ -40,8 +40,9 @@ I liked this assignment because it is fun see an LED brighten or dim based on yo
 ## Motor Control
 #### Included Files:
 <a href="Motor_Control/Motor_Control.ino">Motor_Control</a> <br/>
-
-
+In this assignment I used a potentiometer and a transistor to control the speed of a motor. The Arduino reads the input coming from the potentiometer and powers the transistor accordingly. The amount of power going to the transistor determines how much power goes from the batteries to the motor, and thus controls its speed.<br/>
+<IMG SRC="FritzingDiagrams/Motor_ControlScreenshot.PNG"  width="347" height="200"> <br/>
+I found this assignment frustrating because I had the transistor in backwards, so nothing worked.
 
 
 
