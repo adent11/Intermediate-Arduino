@@ -1,3 +1,5 @@
+//Alden Dent
+//Motor Control
 #include "Arduino.h"
 
 
@@ -11,6 +13,6 @@ void setup()
 void loop()
 {
 	Serial.println(analogRead(0));
-	analogWrite(5, analogRead(0)/4);
+	analogWrite(5, analogRead(0)/4);   //Powers the transistor/motor according to the potentiometer
 }
 
