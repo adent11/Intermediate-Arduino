@@ -34,7 +34,9 @@ I had a little trouble with this assignment because I hadn't done the functions 
 ## Potentiometers
 #### Included Files:
 <a href="Potentiometers/Potentiometers.ino">Potentiometers</a> <br/>
-
+In this assignment I used a potentiometer to control an LED and an LCD. The LCD showed how much power the potentiometer was letting through and the LED brightened or dimmed based on the potentiometer. <br/>
+<IMG SRC="FritzingDiagrams/PotentiometersScreenshot.PNG"  width="329" height="200"> <br/>
+I liked this assignment because it is fun see an LED brighten or dim based on your rotation of the potentiometer.
 ## Motor Control
 #### Included Files:
 <a href="Motor_Control/Motor_Control.ino">Motor_Control</a> <br/>
@@ -42,4 +44,4 @@ I had a little trouble with this assignment because I hadn't done the functions 
 
 
 
-<a href=""></a> <br/>
+
