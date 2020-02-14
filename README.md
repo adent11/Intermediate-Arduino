@@ -30,7 +30,7 @@ I liked this assignment because it gave an easy solution for the problem of wiri
 <a href="interrupt_test/interrupt_test.ino">interrupt_test</a> <br/>
 In this assignment I used a photointerrupter and interrupt function to turn an LED on and off. Whenever something goes between the photointerrupter the LED turns on and off. This happens very fast beacuse it uses an interrupt, so it stops all other code to control the LED. <br/>
 <IMG SRC="FritzingDiagrams/PhotointerrupterScreenshot.PNG"  width="293" height="200"> <br/>
-I had a little trouble with this assignment because I hadn't done the functions assignment, so I fully understand what a function was.
+I had a little trouble with this assignment because I hadn't done the functions assignment, so I didn't fully understand what a function was.
 ## Potentiometers
 #### Included Files:
 <a href="Potentiometers/Potentiometers.ino">Potentiometers</a> <br/>
